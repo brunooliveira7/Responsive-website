@@ -12,10 +12,7 @@ O site cálculo do IMC é uma ferramenta simples para os usuários avaliarem sua
 </p>
 
 <p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/IMC/blob/main/assets/Layout%20IMC%201.png">
-</p>
-<p align="center">
-  <img alt="License" src="https://github.com/brunooliveira7/IMC/blob/main/assets/Layout%20IMC%202.png">
+  <img alt="License" src="">
 </p>
 
 <br>
