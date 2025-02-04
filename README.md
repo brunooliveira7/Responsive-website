@@ -1,7 +1,7 @@
 <h1 align="center"> Cálculo do IMC </h1>
 
 <p align="center">
-O site cálculo do IMC é uma ferramenta simples para os usuários avaliarem sua saúde corporal. Site disponível em: https://brunooliveira7.github.io/IMC/
+O site cálculo do IMC é uma ferramenta simples para os usuários avaliarem sua saúde corporal. Site disponível em: https://brunooliveira7.github.io/Responsive-website
 </p>
 
 <p align="center">
