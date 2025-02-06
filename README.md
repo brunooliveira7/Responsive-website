@@ -22,17 +22,11 @@ O site cálculo do IMC é uma ferramenta simples para os usuários avaliarem sua
 Projeto desenvolvido com as seguintes tecnologias:
 
 - HTML e CSS
-- JavaScript
 - Git e Github
-- Figma
 
 ## 💻 Projeto
 
 Ao inserir informações básicas como peso e altura, o site rapidamente calcula o IMC, fornecendo um número que indica se a pessoa está abaixo do peso, no peso ideal, ou acima do peso.
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/H4NvM7XpxlYZlFJu8QdON3/IMC-(Copy)?node-id=6-4&m=dev). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
