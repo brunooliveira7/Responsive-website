@@ -1,7 +1,7 @@
-<h1 align="center"> Cálculo do IMC </h1>
+<h1 align="center"> Responsive website </h1>
 
 <p align="center">
-O site cálculo do IMC é uma ferramenta simples para os usuários avaliarem sua saúde corporal. Site disponível em: https://brunooliveira7.github.io/Responsive-website
+Site  desenvolvido como parte do aprendizado sobre responsividade. Ele apresenta uma estrutura simples. O design é totalmente responsivo, para garantir uma boa experiência de uso em diferentes dispositivos, desde smartphones até telas maiores. Site disponível em: https://brunooliveira7.github.io/Responsive-website
 </p>
 
 <p align="center">
