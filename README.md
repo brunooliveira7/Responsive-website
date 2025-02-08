@@ -26,7 +26,7 @@ Projeto desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Ao inserir informações básicas como peso e altura, o site rapidamente calcula o IMC, fornecendo um número que indica se a pessoa está abaixo do peso, no peso ideal, ou acima do peso.
+Foram aplicadas boas práticas de CSS, como a utilização de unidades relativas para melhorar a adaptação dos elementos à tela do usuário.
 
 ## :memo: Licença
 
