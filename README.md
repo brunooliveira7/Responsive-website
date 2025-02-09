@@ -15,6 +15,10 @@ Site  desenvolvido como parte do aprendizado sobre responsividade. Ele apresenta
   <img alt="License" src="">
 </p>
 
+<p align="center">
+  <img alt="License" src="">
+</p>
+
 <br>
 
 ## 🧑🏻‍💻 Tecnologias
