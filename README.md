@@ -16,7 +16,7 @@ Site  desenvolvido como parte do aprendizado sobre responsividade. Ele apresenta
 </p>
 
 <p align="center">
-  <img alt="License" src="">
+  <img alt="License" src="https://github.com/brunooliveira7/Responsive-website/blob/main/assets/Layout%202.png">
 </p>
 
 <br>
